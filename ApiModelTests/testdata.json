@@ -1,0 +1,26 @@
+{
+    "aggregation": "ARITHMETIC",
+    "aggregationInterval": 30,
+    "columns": [
+        "VAR_META.SO2_1",
+        "KUM_META.SO_2",
+        "HYY_META.SO2168"
+    ],
+    "data": [
+        {
+            "VAR_META.SO2_1": 0.07600000000000001,
+            "KUM_META.SO_2": 0.8635452133333335,
+            "samptime": "2022-01-20T01:00:00.000",
+            "HYY_META.SO2168": 0.03666666666666667
+        },
+        {
+            "VAR_META.SO2_1": 0.07333333333333333,
+            "KUM_META.SO_2": 1.0891836966666666,
+            "samptime": "2022-01-20T01:30:00.000",
+            "HYY_META.SO2168": 0.029999999999999995
+        }
+    ],
+    "endTime": "2022-01-20T02:00:00.000",
+    "recordCount": 2,
+    "startTime": "2022-01-20T01:00:00.000"
+}
